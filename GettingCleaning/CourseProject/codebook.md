@@ -1,5 +1,6 @@
 ###CodeBook for "SamsungData_MeanOfMean_byActivitySubject.txt"
 
+*Description*
 'data.frame':        180 obs. of  88 variables:
 
 The data frame contains the average values of all mean and standard deviation 
@@ -9,13 +10,13 @@ first two columns and variable means are in the remaining 86 columns as listed
 below. For explanation of the variables, please refer to "features_info.txt" 
 from the UCI HAR Dataset.
 
-Project information:
+*Project information:*
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Full data  downloaded from:
+*Full data  downloaded from:*
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-Column Names in ""
+*Column name* ""
 
 "activityName"  Factor w/ 6 levels
         LAYING  SITTING STANDING        WALKING WALKING_DOWNSTAIRS      WALKING_UPSTAIRS         
