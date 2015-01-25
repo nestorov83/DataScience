@@ -5,7 +5,8 @@ date: "1/25/2015"
 output: html_document
 ---
 
-*Description*
+**Description**
+
 The repo contains the R script "run_analysis.R" for extracting and processing 
 data from the UCI Human Activity Recognition project (UCI HAR), as well as the 
 CodeBook explaining the output data file. Briefly, data was downloaded and
@@ -14,11 +15,12 @@ Subsequently, the dataset was grouped by type of activity and subject and for
 each activity and subject the mean of all mean and standard deviation measurments
 was computed and returned in a tidy data frame as an output.
 
-*Instruction for running the script*
+**Instruction for running the script**
+
 The zip file containing the raw data should be downloaded into a folder "data",
 which should be set as the working directory.
 
-*Source:*
+**Source:**
 
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
@@ -27,7 +29,8 @@ activityrecognition '@' smartlab.ws
 www.smartlab.ws
 
 
-*System info*
+**System info**
+
 R version 3.1.1 (2014-07-10)
 Platform: x86_64-unknown-linux-gnu (64-bit)
 
